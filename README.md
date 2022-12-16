@@ -6,3 +6,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayeonS2&layout=compact">
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=k101614)](https://solved.ac/k101614)
