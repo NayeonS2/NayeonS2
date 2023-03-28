@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nayeon's%20GitHub&fontSize=70"/>
 
-<p><b>👑Ranking</b></p>
+<p><b>🏅Ranking</b></p>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k101614)](https://solved.ac/k101614)
 
