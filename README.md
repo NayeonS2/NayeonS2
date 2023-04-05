@@ -4,7 +4,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k101614)](https://solved.ac/k101614)
 
-<b>🌞GitHub Stats</b>
+<b>🌈GitHub Stats</b>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NayeonS2&show_icons=true&include_all_commits=true">
   
